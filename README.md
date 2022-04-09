@@ -9,7 +9,7 @@
 </p>
 
 ## Live Stream
-Go to live preview [http://localhost:3000](http://localhost:3000).
+Go to live preview [https://andersonlord.github.io/MasterCoin-Frontend/](https://andersonlord.github.io/MasterCoin-Frontend/).
 
 ## Getting Started
 
