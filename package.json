@@ -5,6 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p 3333",
+    "export": "next export && touch out/.nojekyll",
     "lint": "next lint"
   },
   "dependencies": {
