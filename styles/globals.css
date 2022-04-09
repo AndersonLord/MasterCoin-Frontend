@@ -1,0 +1,10 @@
+@import url('//fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+@import url(//pro.fontawesome.com/releases/v5.10.0/css/all.css);
+@import url(https://cdn.jsdelivr.net/npm/cryptocoins-icons@2.9.0/webfont/cryptocoins.css);
+@import url(https://cdn.jsdelivr.net/npm/cryptocoins-icons@2.9.0/webfont/cryptocoins-colors.css);
+body {
+    font-family: Poppins, sans-serif;
+}
+.rounded-4xl {
+    border-radius: 3.5rem;
+}
