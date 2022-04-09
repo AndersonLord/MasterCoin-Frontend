@@ -17,10 +17,10 @@ Start development server:
 
 ```bash
 #Installs all the dependencies defined in a package.json file.
-yarn
+$ yarn
 
 #Run project in developer mode.
-yarn dev 
+$ yarn dev 
 ```
 
 ## Master Coin WebSocket Template Simple
