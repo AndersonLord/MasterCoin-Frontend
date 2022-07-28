@@ -5,7 +5,7 @@ import Rodape from "./componentes/rodape";
 
 const Home = observer(function HomeFunctinMobx() {
   return (
-    <div className="teste">
+    <div className="teste commit 2">
       <Cabecalho />
       <Dashboard />
       <Rodape />
